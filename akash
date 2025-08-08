@@ -1,0 +1,13 @@
+#! /bin/bash
+
+#this is the test shell script 
+ 
+
+enter the value a
+read a
+enter the valu b
+read b
+
+if $(( $c = a+b ))
+echo the answer is $c
+fi 
